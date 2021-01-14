@@ -1,0 +1,62 @@
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+h2, h3 {
+    color: darkslateblue;
+    font-weight: bolder;
+    font-size: 50px
+}
+
+.jahid-menu-width {
+    width: auto;
+}
+
+.jahid-header-container {
+    margin: 0 auto 20px auto;
+    padding-bottom: 100px;;
+}
+
+.jahid-menu-li {
+    padding: 15px;
+}
+
+.jahid-menu-li a {
+    font-weight: bold;
+}
+
+.jahid-nike-react {
+    color: orange;
+    font-size: 70px;
+}
+
+.jahid-infinity-run {
+    color: darkslateblue;
+    font-size: 70px;
+}
+
+.jahid-btn-buynow {
+    padding: 10px 30px;
+    font-weight: bolder;
+}
+
+.jahid-shoes-card {
+    margin: 20px;
+}
+
+.jahid-card-group {
+    border: 0;
+    margin: 20px;
+    
+}
+
+.jahid-card-footer {
+    border: 0;
+    background-color: white;
+}
+
+.jahid-price {
+    color: orange;
+    font-size: 40px;
+    font-weight: bolder;
+}
