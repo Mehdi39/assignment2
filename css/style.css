@@ -66,3 +66,15 @@ h2, h3 {
     font-weight: bolder;
     font-size: 25px;
 }
+
+@media only screen and (max-width: 768px) {
+    body {
+      background-color: lightblue;
+    }
+
+    .jahid-price {
+        color: orange;
+        font-size: 20px;
+        font-weight: bolder;
+    }
+  }
