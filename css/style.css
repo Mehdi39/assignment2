@@ -3,7 +3,7 @@ body {
 }
 
 h2, h3 {
-    color: darkslateblue;
+    color: rgb(18, 5, 102);
     font-weight: bolder;
     font-size: 50px
 }
@@ -31,7 +31,7 @@ h2, h3 {
 }
 
 .jahid-infinity-run {
-    color: darkslateblue;
+    color: rgb(18, 5, 102);
     font-size: 70px;
 }
 
@@ -59,4 +59,10 @@ h2, h3 {
     color: orange;
     font-size: 40px;
     font-weight: bolder;
+}
+
+.jahid-title-text {
+    color: rgb(18, 5, 102);
+    font-weight: bolder;
+    font-size: 25px;
 }
