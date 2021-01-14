@@ -64,17 +64,47 @@ h2, h3 {
 .jahid-title-text {
     color: rgb(18, 5, 102);
     font-weight: bolder;
-    font-size: 25px;
+    font-size: 30px;
 }
 
 @media only screen and (max-width: 768px) {
-    body {
-      background-color: lightblue;
-    }
+
 
     .jahid-price {
         color: orange;
-        font-size: 20px;
+        font-size: 35px;
         font-weight: bolder;
     }
+
+    h2, h3 {
+        color: rgb(18, 5, 102);
+        font-weight: bolder;
+        font-size: 30px;
+        text-align: center;
+    }
+
+    .jahid-details-img img {
+        width: 100%;
+        padding: 40px;
+    }
+    
+    .jahid-title-text {
+        font-size: 30px;
+    }
+
+    .jahid-title-text-details {
+        text-align: center;
+        color: rgb(18, 5, 102);
+        font-weight: bolder;
+        font-size: 30px;
+    }
+
+    .jahid-title-text-p {
+        text-align: center;
+    }
+
+    .jahid-shoping-card-picture {
+        margin: 30px;
+    }
+
   }
